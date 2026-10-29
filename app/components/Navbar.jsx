@@ -10,7 +10,8 @@ const Navbar = () => {
           src={Logo}
           alt="Andres"
           width={50}
-          height={50}
+          quality={100}
+          className="rounded-full"
           />
           <h1>Andres Helpdesk</h1>
           <Link href="/">Home</Link>
